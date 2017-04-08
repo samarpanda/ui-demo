@@ -1,0 +1,18 @@
+{
+  "name": "ui-demo",
+  "version": "1.0.0",
+  "description": "React ui starter kit",
+  "main": "index.js",
+  "repository": "git@github.com:samarpanda/ui-demo.git",
+  "author": "Samar Panda <er.samarpanda@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.5.3",
+    "react-dom": "^15.5.3",
+    "react-router": "^4.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^2.3.3",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
